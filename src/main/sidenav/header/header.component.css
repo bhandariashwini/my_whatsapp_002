@@ -1,0 +1,23 @@
+.containar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 3.5 rem;
+  background-color: #f0f2f5;
+}
+.avatar {
+  height: 3 rem;
+  flex-basis: 3 rem;
+}
+.img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+]
+.menu {
+  display: flex;
+  justify-content: space-between;
+  height: 1.6 rem;
+  flex-basis: 40%;
+}
